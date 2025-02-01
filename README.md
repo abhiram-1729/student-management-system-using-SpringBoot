@@ -12,7 +12,6 @@ Welcome to the Student Management System project! This application is built usin
 4. Getting Started
 5. Usage
 6. Screenshots
-7. Contributing
 8. Contact
 
 ## Introduction
@@ -43,11 +42,11 @@ The project is built using the following technologies:
 
 To get started with the Student Management System, follow these steps:
 
-1. **Prerequisites**: Make sure you have Java 8 (or higher) and MySQL (or any preferred database) installed on your machine.
+1. **Prerequisites**: Make sure you have Java 21 and MySQL installed on your machine.
 2. **Clone the repository**: Clone this repository to your local machine using `git clone https://github.com/yourusername/StudentManagementSystem.git`.
 3. **Database setup**: Create a new MySQL database and execute the SQL script provided in `database/setup.sql`.
 4. **Configuration**: Update the database configuration in `src/main/resources/application.properties` with your database credentials.
-5. **Build and Run**: Use Maven (or Gradle) to build the project and run it using the Spring Boot application.
+5. **Build and Run**: Use Maven to build the project and run it using the Spring Boot application.
 
 ## Usage
 
@@ -63,15 +62,13 @@ You'll be presented with the login page. Use the provided credentials (or regist
 ### In the Update page we can update student details
 ![Screenshot 3](https://github.com/Abhi143210/SpringBoot-CRUD_Login-Thymeleaf/blob/main/pngs/update.png)
 
-## Contributing
 
-Contributions to this project are welcome! If you find a bug or want to add a new feature, please feel free to open an issue or submit a pull request.
 
 
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at abhiramrangoon@email.com.
+please feel free to contact me at abhiramrangoon@email.com.
 
 ---
 
