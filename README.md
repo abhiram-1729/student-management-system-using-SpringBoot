@@ -56,11 +56,11 @@ You'll be presented with the login page. Use the provided credentials (or regist
 
 ## Screenshots
 ### This is the Login Page where we should add username and password
-![Screenshot 1](https://github.com/Abhi143210/SpringBoot-CRUD_Login-Thymeleaf/blob/main/pngs/login.png)
+![Screenshot 1](https://github.com/abhiram-1729/student-management-system-using-SpringBoot/blob/main/pngs/login.png)
 ### After login we can see the list of students in that we update or delete student details
-![Screenshot 2](https://github.com/Abhi143210/SpringBoot-CRUD_Login-Thymeleaf/blob/main/pngs/list.png)
+![Screenshot 2](https://github.com/abhiram-1729/student-management-system-using-SpringBoot/blob/main/pngs/list.png)
 ### In the Update page we can update student details
-![Screenshot 3](https://github.com/Abhi143210/SpringBoot-CRUD_Login-Thymeleaf/blob/main/pngs/update.png)
+![Screenshot 3](https://github.com/abhiram-1729/student-management-system-using-SpringBoot/blob/main/pngs/update.png)
 
 
 
